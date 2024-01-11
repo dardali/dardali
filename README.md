@@ -14,7 +14,8 @@
 - 🔭 I’m **in searching for job offers**
 - 🌱 I’m currently reading **"Grokking Algorithms" by Aditya Bhargava** and practice in **algorithms**
 - 👯 I’m free to collaborate on projects with **Django, FastAPI, Flask, Scrapy and telegram-bot development**
-- 📫 Reach me by [email](dardali@mail.ru)
+- 📫 Reach me at:
+  - Email: dardali1997@gmail.com (Preferred)
 - 🌍 I speak Russian (native), English (elementary), Spanish (begginer)
 - ⚡ You can watch and try **my best projects in Pinned**.
 
